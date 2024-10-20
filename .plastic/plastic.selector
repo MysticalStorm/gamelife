@@ -1,0 +1,4 @@
+repository "GameLife2@incromeinc@cloud"
+  path "/"
+    br "/main"
+    co "/main"

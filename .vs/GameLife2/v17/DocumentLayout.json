@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DevSpace\\Unity\\GameLife2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD57309-3D6D-FB47-206F-2F675FF880CE}|Assembly-CSharp.csproj|e:\\devspace\\unity\\gamelife2\\assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD57309-3D6D-FB47-206F-2F675FF880CE}|Assembly-CSharp.csproj|solutionrelative:assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD57309-3D6D-FB47-206F-2F675FF880CE}|Assembly-CSharp.csproj|E:\\DevSpace\\Unity\\GameLife2\\assets\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD57309-3D6D-FB47-206F-2F675FF880CE}|Assembly-CSharp.csproj|solutionrelative:assets\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD57309-3D6D-FB47-206F-2F675FF880CE}|Assembly-CSharp.csproj|E:\\DevSpace\\Unity\\GameLife2\\assets\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD57309-3D6D-FB47-206F-2F675FF880CE}|Assembly-CSharp.csproj|solutionrelative:assets\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "E:\\DevSpace\\Unity\\GameLife2\\Assets\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\GameController.cs",
+              "ToolTip": "E:\\DevSpace\\Unity\\GameLife2\\Assets\\GameController.cs",
+              "RelativeToolTip": "Assets\\GameController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBAwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:28:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "E:\\DevSpace\\Unity\\GameLife2\\Assets\\Bot.cs",
+              "RelativeDocumentMoniker": "Assets\\Bot.cs",
+              "ToolTip": "E:\\DevSpace\\Unity\\GameLife2\\Assets\\Bot.cs",
+              "RelativeToolTip": "Assets\\Bot.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:59:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapGenerator.cs",
+              "DocumentMoniker": "E:\\DevSpace\\Unity\\GameLife2\\Assets\\MapGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\MapGenerator.cs",
+              "ToolTip": "E:\\DevSpace\\Unity\\GameLife2\\Assets\\MapGenerator.cs",
+              "RelativeToolTip": "Assets\\MapGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:48:01.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
